@@ -1,0 +1,17 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "realtime-chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "socket.io": "^1.3.5"
+  }
+}
